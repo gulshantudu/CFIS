@@ -1,0 +1,5 @@
+![CRIMINAL FACE IDENTIFICATION SYSTEM](https://github.com/gulshantudu/CFIS/assets/150656120/9c79c362-65c8-4644-b134-da0fee382b00)
+![Criminal Profile](https://github.com/gulshantudu/CFIS/assets/150656120/50186f99-98a4-4d94-9333-0c95f77827e7)
+![Detect Criminals](https://github.com/gulshantudu/CFIS/assets/150656120/3d60eaa5-3364-4db1-bb0d-35036360fcb1)
+![Register Criminals](https://github.com/gulshantudu/CFIS/assets/150656120/43222e1d-4d7c-46f1-99df-997277a8e671)
+![Video Survillence](https://github.com/gulshantudu/CFIS/assets/150656120/982b57cd-af9b-4043-97fd-6d2afa153bf9)
